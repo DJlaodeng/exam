@@ -1,0 +1,88 @@
+{
+	"result": [{
+		"_id": "1",
+		"title": "纹胸少御",
+		"cid": "59f1e4919bfd8f3bd030eed6",
+		"price": 2888,
+		"old_price": "4000",
+		"pic": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3910696802,2928634851&fm=26&gp=0.jpg",
+        "s_pic": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3910696802,2928634851&fm=26&gp=0.jpg",
+        "num":1,
+        "checked":false
+	}, {
+		"_id": "2",
+		"title": "浴室长腿",
+		"cid": "59f1e1e880e7ed050cec999d",
+		"price": "3888",
+		"old_price": "2001",
+		"pic": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=953184137,277107007&fm=26&gp=0.jpg",
+        "s_pic": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=953184137,277107007&fm=26&gp=0.jpg",
+        "num":1,
+        "checked":false
+	}, {
+		"_id": "3",
+		"title": "白领波浪",
+		"cid": "59f1e1e880e7ed050cec999d",
+		"price": 4888,
+		"old_price": "599.00",
+		"pic": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1594785960,3700927404&fm=26&gp=0.jpg",
+        "s_pic": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1594785960,3700927404&fm=26&gp=0.jpg",
+        "num":1,
+        "checked":false
+	}, {
+		"_id": "4",
+		"title": "湿恋少女",
+		"cid": "5a042480010e711234661436",
+		"price": "1888",
+		"old_price": "368",
+		"pic": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3549225143,1961889123&fm=26&gp=0.jpg",
+        "s_pic": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3549225143,1961889123&fm=26&gp=0.jpg",
+        "num":1,
+        "checked":false
+	}
+	, {
+		"_id": "5",
+		"title": "清纯少女",
+		"cid": "5a042480010e711234661436",
+		"price": "520.00",
+		"old_price": "368",
+		"pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604340423307&di=9d87eef8f020e16e46f22716cb5afc3a&imgtype=0&src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201908%2F04%2F20190804070805_uVWWG.thumb.400_0.jpeg",
+        "s_pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604340423307&di=9d87eef8f020e16e46f22716cb5afc3a&imgtype=0&src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201908%2F04%2F20190804070805_uVWWG.thumb.400_0.jpeg",
+        "num":1,
+        "checked":false
+	}
+	, {
+		"_id": "6",
+		"title": "纹身美少女",
+		"cid": "5a042480010e711234661436",
+		"price": "1314.00",
+		"old_price": "368",
+		"pic": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3415738160,3090332809&fm=26&gp=0.jpg",
+        "s_pic": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3415738160,3090332809&fm=26&gp=0.jpg",
+        "num":1,
+        "checked":false
+	},
+	 {
+		"_id": "7",
+		"title": "深度值得深入",
+		"cid": "5a042480010e711234661436",
+		"price": "5200.00",
+		"old_price": "368",
+		"pic": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=227923582,2610280119&fm=26&gp=0.jpg",
+        "s_pic": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=227923582,2610280119&fm=26&gp=0.jpg",
+        "num":1,
+        "checked":false
+	},
+	{
+		"_id": "8",
+		"title": "深度值得深入",
+		"cid": "5a042480010e711234661436",
+		"price": "5200.00",
+		"old_price": "368",
+		"pic": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2186793823,1291026773&fm=26&gp=0.jpg",
+        "s_pic": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2186793823,1291026773&fm=26&gp=0.jpg",
+        "num":1,
+        "checked":false
+	}
+]
+}
