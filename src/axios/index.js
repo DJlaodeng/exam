@@ -1,8 +1,8 @@
 import axios from 'axios'
 
 var Server = axios.create({
-    baseURL: "",
-    timeout: 6000
+    // baseURL: "",
+    // timeout: 6000
 })
 Server.interceptors.request.use(
     config => {
