@@ -48,6 +48,9 @@ export default {
     },
     out() {
       sessionStorage.clear();
+      // this.$axios.post("http://ceshi5.dishait.cn/admin/logout").then((res) => {
+      //   console.log(res);
+      // });
       this.$message.success("退出成功！");
       this.$router.push("/login");
     },

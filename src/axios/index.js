@@ -1,8 +1,15 @@
 import axios from 'axios'
 
+var baseURL;
+if (process.env.NODE_ENV === "development") {
+    baseURL = "http://localhost:8080";
+} else if (process.env.NODE_ENV === "production") {
+    baseURL = "http://localhost:1001";
+}
+
 var Server = axios.create({
-    // baseURL: "",
-    // timeout: 6000
+    baseURL: "",
+    timeout: 6000
 })
 Server.interceptors.request.use(
     config => {
